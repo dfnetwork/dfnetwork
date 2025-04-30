@@ -260,42 +260,6 @@
           z-index: 1;
         "
       ></div>
-      <h3 style="position: relative; z-index: 2">
-        <img
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png"
-          alt="Video Game"
-          width="24"
-          height="24"
-          style="vertical-align: middle"
-        />
-        FiveM Scripts
-      </h3>
-      <ul
-        style="
-          list-style-type: none;
-          padding: 0;
-          margin: 15px 0;
-          position: relative;
-          z-index: 2;
-        "
-      >
-        <li style="margin-bottom: 10px">
-          ✨ <strong>Advanced Banking System</strong> - Sistema bancario con
-          transferencias, hipotecas y más
-        </li>
-        <li style="margin-bottom: 10px">
-          ✨ <strong>Custom Vehicle Shop</strong> - Tienda de vehículos con
-          sistema de prueba
-        </li>
-        <li style="margin-bottom: 10px">
-          ✨ <strong>Police MDT System</strong> - Sistema avanzado para cuerpo
-          policial
-        </li>
-        <li style="margin-bottom: 10px">
-          ✨ <strong>Dynamic Gangs</strong> - Sistema de bandas con territorios
-          y guerras
-        </li>
-      </ul>
     </div>
     <div
       style="
@@ -418,32 +382,7 @@
         Sistema completo de mecánico con diagnósticos, reparaciones y
         personalización avanzada de vehículos.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -475,32 +414,7 @@
         Sistema avanzado de tiendas con interfaz personalizable y múltiples
         funcionalidades.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -534,32 +448,7 @@
         Sistema de eventos aleatorios que ocurren por toda la ciudad con
         recompensas y desafíos.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -593,32 +482,7 @@
         Sistema para gestionar múltiples trabajos con interfaz intuitiva y
         tracking de roles.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -723,32 +587,7 @@
             font-weight: 500;
           "
           >ESX</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+        ></div>
     </div>
     <div
       style="
@@ -794,32 +633,7 @@
             font-weight: 500;
           "
           >ESX</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+        ></div>
     </div>
     <div
       style="
@@ -851,32 +665,7 @@
         Sistema de chat avanzado con múltiples canales y comandos
         personalizados.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -910,32 +699,7 @@
         Mejora visual y funcional para las desconexiones con animaciones y
         notificaciones.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -969,32 +733,7 @@
         Conjunto de scripts y utilidades optimizados para mejorar la experiencia
         de juego.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -1028,32 +767,7 @@
         Limitador de velocidad configurable para vehículos con sistema de
         categorías.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -1085,32 +799,7 @@
         Sistema para mostrar y gestionar estadísticas del jugador con interfaz
         personalizable.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #28a6e1;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >QBCore</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
   </div>
 </div>
