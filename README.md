@@ -111,11 +111,11 @@
     <h3>FiveM Frameworks</h3>
     <div style="margin: 15px 0">
       <img
-        src="https://img.shields.io/badge/ESX-5b93fb?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi41IDIgMiA2LjUgMiAxMnM0LjUgMTAgMTAgMTAgMTAtNC41IDEwLTEwUzE3LjUgMiAxMiAyem0wIDE4Yy00LjQgMC04LTMuNi04LThzMy42LTggOC04IDggMy42IDggOC0zLjYgOC04IDh6TTEwIDEyVjdoNHY1aDNoLTVsLTEgMXoiLz48L3N2Zz4="
+        src="https://esx.s3.fr-par.scw.cloud/blanc-800x800.png"
         alt="ESX"
       />
       <img
-        src="https://img.shields.io/badge/QBCore-28a6e1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi41IDIgMiA2LjUgMiAxMnM0LjUgMTAgMTAgMTAgMTAtNC41IDEwLTEwUzE3LjUgMiAxMiAyem0wIDE4Yy00LjQgMC04LTMuNi04LThzMy42LTggOC04IDggMy42IDggOC0zLjYgOC04IDh6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDZsLTQgNCA0IDR2LTNoMnYzaDJ2LThoLTJ2M2gtMnoiLz48L3N2Zz4="
+        src="https://qbcore.net/wp-content/uploads/2022/12/cropped-qbfav-1.png"
         alt="QBCore"
       />
     </div>
