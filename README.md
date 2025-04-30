@@ -130,6 +130,7 @@
           />
           <span style="font-weight: 600; margin-top: 10px; color: #28a6e1;">QBCore Framework</span>
         </div>
+      </div>
     </div>
     <h3>Frameworks & Libraries</h3>
     <div style="margin: 15px 0">
