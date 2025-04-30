@@ -1,7 +1,7 @@
 # 👋 Hola, soy Tito Gus (gaabri)
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/215/215482.gif" width="700">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI3dDlwamZiMzF4YmR3bGMwczdqZ24wOXAwa3RnZjc3aTdmYWJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HYNBq9hYWBfPiKdNUD/giphy.gif" width="700">
 </div>
 
 ## 🎮 Desarrollador FiveM & Full Stack
@@ -54,13 +54,13 @@ Hago streams sobre desarrollo de scripts para FiveM, programación y gaming:
 ## 🔗 Conecta conmigo
 
 <div align="center">
-  <a href="https://discord.gg/dfnetwork" target="_blank">
+  <a href="https://discord.gg/BxRtmmNadC" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://twitch.tv/drel96" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
-  <a href="https://github.com/gaabri" target="_blank">
+  <a href="https://github.com/dfnetwork" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://dfnetwork.in" target="_blank">
