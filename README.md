@@ -1,7 +1,7 @@
-# 👋 Hola, soy Tito Gus (gaabri)
+# 👋 Hola, soy Tito Gus
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI3dDlwamZiMzF4YmR3bGMwczdqZ24wOXAwa3RnZjc3aTdmYWJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HYNBq9hYWBfPiKdNUD/giphy.gif" width="700">
+  <img src="https://cdn.dfnetwork.in/upload/uploads/2/6811789cd820b6.40044630.gif" width="700">
 </div>
 
 ## 🎮 Desarrollador FiveM & Full Stack
