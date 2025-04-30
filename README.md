@@ -116,7 +116,7 @@
             alt="ESX"
             style="width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 4px 10px rgba(91, 147, 251, 0.3));"
           />
-          <span style="font-weight: 600; margin-top: 12px; color: #5b93fb; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ESX Framework</span>
+          <!-- <span style="font-weight: 600; margin-top: 12px; color: #5b93fb; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ESX Framework</span> -->
         </div>
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img
@@ -124,7 +124,7 @@
             alt="QBCore"
             style="width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 4px 10px rgba(40, 166, 225, 0.3));"
           />
-          <span style="font-weight: 600; margin-top: 12px; color: #28a6e1; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">QBCore Framework</span>
+          <!--<span style="font-weight: 600; margin-top: 12px; color: #28a6e1; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">QBCore Framework</span>-->
         </div>
       </div>
     </div>
