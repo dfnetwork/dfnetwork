@@ -108,16 +108,28 @@
         alt="Python"
       />
     </div>
-    <h3>FiveM Frameworks</h3>
-    <div style="margin: 15px 0">
-      <img
-        src="https://esx.s3.fr-par.scw.cloud/blanc-800x800.png"
-        alt="ESX"
-      />
-      <img
-        src="https://qbcore.net/wp-content/uploads/2022/12/cropped-qbfav-1.png"
-        alt="QBCore"
-      />
+    <h3 style="text-align: center; font-size: 28px; margin-bottom: 20px; color: #333; font-weight: 600;">FiveM Frameworks</h3>
+      <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 25px 0; flex-wrap: wrap;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img
+            src="https://esx.s3.fr-par.scw.cloud/blanc-800x800.png"
+            alt="ESX"
+            style="width: 100px; height: 100px; object-fit: contain; transition: transform 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));"
+            onmouseover="this.style.transform='scale(1.1)'"
+            onmouseout="this.style.transform='scale(1)'"
+          />
+          <span style="font-weight: 600; margin-top: 10px; color: #5b93fb;">ESX Framework</span>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img
+            src="https://qbcore.net/wp-content/uploads/2022/12/cropped-qbfav-1.png"
+            alt="QBCore"
+            style="width: 100px; height: 100px; object-fit: contain; transition: transform 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));"
+            onmouseover="this.style.transform='scale(1.1)'"
+            onmouseout="this.style.transform='scale(1)'"
+          />
+          <span style="font-weight: 600; margin-top: 10px; color: #28a6e1;">QBCore Framework</span>
+        </div>
     </div>
     <h3>Frameworks & Libraries</h3>
     <div style="margin: 15px 0">
