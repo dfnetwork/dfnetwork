@@ -143,101 +143,81 @@
     Scripts Disponibles en <a href="https://dfstore.tebex.io/" target="_blank">DF Store</a>
   </h3>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin: 15px auto; max-width: 800px;">
-    <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
-      <h4 style="margin-top: 0; color: #5333ed;">AIO SUSCRIPCION</h4>
-      <p style="font-size: 14px; color: #666;">Acceso a todos los scripts premium con actualización continua.</p>
-      <span style="display: inline-block; background-color: #5333ed; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">Suscripción</span>
-    </div>
-    
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin: 15px auto; max-width: 800px;"> 
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF MECHANIC JOB</h4>
       <p style="font-size: 14px; color: #666;">Sistema completo de mecánico con multitud de opciones.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ QBCORE ] DF SHOPS</h4>
       <p style="font-size: 14px; color: #666;">Sistema avanzado de tiendas con interfaz personalizable.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ QBCORE ] DF Eventos Aleatorios</h4>
       <p style="font-size: 14px; color: #666;">Sistema de eventos aleatorios por la ciudad.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF_Multijob</h4>
       <p style="font-size: 14px; color: #666;">Sistema para gestionar múltiples trabajos.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ESX] DF MULTIJOB</h4>
       <p style="font-size: 14px; color: #666;">Sistema para gestionar múltiples trabajos en ESX.</p>
       <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">ESX</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ESX/QBCORE] DF LOADSCREEN</h4>
       <p style="font-size: 14px; color: #666;">Pantalla de carga personalizable y optimizada.</p>
       <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">ESX</span>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-left: 5px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ESX/QBCORE] Exodo C -Gus Load</h4>
       <p style="font-size: 14px; color: #666;">Pantalla de carga con efectos visuales avanzados.</p>
       <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">ESX</span>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-left: 5px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF_CHAT</h4>
       <p style="font-size: 14px; color: #666;">Sistema de chat avanzado con múltiples opciones.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF DISCONNECT</h4>
       <p style="font-size: 14px; color: #666;">Mejora visual y funcional para las desconexiones.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF_SmallResources</h4>
       <p style="font-size: 14px; color: #666;">Conjunto de scripts y utilidades optimizados.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF Car Limit</h4>
       <p style="font-size: 14px; color: #666;">Limitador de velocidad configurable para vehículos.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF Stats</h4>
       <p style="font-size: 14px; color: #666;">Sistema para mostrar y gestionar estadísticas del jugador.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ ESX ] DF Anui</h4>
       <p style="font-size: 14px; color: #666;">Interfaz de usuario avanzada para ESX.</p>
       <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">ESX</span>
       <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-left: 5px;">Gratis</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[QBCORE] DF ANUI</h4>
       <p style="font-size: 14px; color: #666;">Interfaz de usuario avanzada para QBCore.</p>
       <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px;">QBCore</span>
       <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; margin-left: 5px;">Gratis</span>
     </div>
-    
     <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
       <h4 style="margin-top: 0; color: #5333ed;">[ESX - QBCORE] XSS - Blocker</h4>
       <p style="font-size: 14px; color: #666;">Protección contra ataques XSS en tu servidor.</p>
