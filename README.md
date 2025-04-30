@@ -516,31 +516,6 @@
         Sistema para gestionar múltiples trabajos en ESX con múltiples opciones
         de configuración.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
       </div>
     </div>
     <div
@@ -575,20 +550,7 @@
         Pantalla de carga personalizable y optimizada con múltiples efectos
         visuales.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
@@ -622,20 +584,7 @@
         Pantalla de carga premium con efectos visuales avanzados y transiciones
         fluidas.
       </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        >
-      </div>
+      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
     </div>
     <div
       style="
