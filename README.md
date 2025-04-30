@@ -11,7 +11,27 @@
     "
   />
 </div>
-
+<div align="center">
+  <h3 style="text-align: center; font-size: 28px; margin: 40px 0 20px 0; color: #333; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"/> 
+    GitHub Stats
+  </h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dfnetwork&show_icons=true&theme=material&bg_color=00000000&hide_border=true&text_color=6e6e6e&title_color=5333ed&icon_color=5333ed" alt="GitHub Stats" style="width: 45%; min-width: 300px; border-radius: 10px; filter: drop-shadow(0 5px 15px rgba(83, 51, 237, 0.15));">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dfnetwork&theme=material&background=00000000&hide_border=true&stroke=5333ed&ring=5333ed&fire=5333ed&currStreakNum=6e6e6e&sideNums=6e6e6e&currStreakLabel=5333ed&sideLabels=5333ed&dates=6e6e6e" alt="GitHub Streak" style="width: 45%; min-width: 300px; border-radius: 10px; filter: drop-shadow(0 5px 15px rgba(83, 51, 237, 0.15));">
+  </div>
+</div>
+<div align="center" style="margin: 40px 0;">
+  <a href="https://github.com/dfnetwork" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=dfnetwork&color=5333ed&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" style="border-radius: 6px; box-shadow: 0 6px 15px rgba(83, 51, 237, 0.25);">
+  </a>
+</div>
+<div align="center" style="margin-top: 50px; padding: 10px; background: linear-gradient(145deg, #f9f9f9, #ffffff); border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.06);">
+  <h3 style="text-align: center; font-size: 22px; margin-bottom: 20px; color: #5333ed; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Mi actividad en GitHub
+  </h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" style="filter: drop-shadow(0 2px 5px rgba(83, 51, 237, 0.2));">
+</div>
 <div align="center">
   <h2>
     <img
