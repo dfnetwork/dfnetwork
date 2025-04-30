@@ -108,27 +108,23 @@
         alt="Python"
       />
     </div>
-    <h3 style="text-align: center; font-size: 28px; margin-bottom: 20px; color: #333; font-weight: 600;">FiveM Frameworks</h3>
-      <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 25px 0; flex-wrap: wrap;">
+    <h3 style="text-align: center; font-size: 28px; margin-bottom: 20px; color: #333; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">FiveM Frameworks</h3>
+      <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin: 25px 0;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img
             src="https://esx.s3.fr-par.scw.cloud/blanc-800x800.png"
             alt="ESX"
-            style="width: 100px; height: 100px; object-fit: contain; transition: transform 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));"
-            onmouseover="this.style.transform='scale(1.1)'"
-            onmouseout="this.style.transform='scale(1)'"
+            style="width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 4px 10px rgba(91, 147, 251, 0.3));"
           />
-          <span style="font-weight: 600; margin-top: 10px; color: #5b93fb;">ESX Framework</span>
+          <span style="font-weight: 600; margin-top: 12px; color: #5b93fb; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ESX Framework</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img
             src="https://qbcore.net/wp-content/uploads/2022/12/cropped-qbfav-1.png"
             alt="QBCore"
-            style="width: 100px; height: 100px; object-fit: contain; transition: transform 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));"
-            onmouseover="this.style.transform='scale(1.1)'"
-            onmouseout="this.style.transform='scale(1)'"
+            style="width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 4px 10px rgba(40, 166, 225, 0.3));"
           />
-          <span style="font-weight: 600; margin-top: 10px; color: #28a6e1;">QBCore Framework</span>
+          <span style="font-weight: 600; margin-top: 12px; color: #28a6e1; font-size: 18px; letter-spacing: 0.5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">QBCore Framework</span>
         </div>
       </div>
     </div>
