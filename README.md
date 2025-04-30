@@ -341,465 +341,116 @@
       >DF Store</a
     >
   </h2>
-  <div
-    style="
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 20px;
-      margin: 25px auto;
-      max-width: 1200px;
-    "
-  >
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF MECHANIC JOB
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema completo de mecánico con diagnósticos, reparaciones y
-        personalización avanzada de vehículos.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
-    </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">DF SHOPS</h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema avanzado de tiendas con interfaz personalizable y múltiples
-        funcionalidades.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
-    </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF EVENTOS ALEATORIOS
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema de eventos aleatorios que ocurren por toda la ciudad con
-        recompensas y desafíos.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
-    </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF MULTIJOB
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema para gestionar múltiples trabajos con interfaz intuitiva y
-        tracking de roles.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
-    </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(91, 147, 251, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #5b93fb;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #5b93fb; font-size: 22px">
-        DF MULTIJOB
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema para gestionar múltiples trabajos en ESX con múltiples opciones
-        de configuración.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        >
-        <span
-          style="
-            display: inline-block;
-            background-color: #f44336;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >Premium</span
-        >
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin: 25px auto; max-width: 1200px;">
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF MECHANIC JOB</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema completo de mecánico con diagnósticos, reparaciones y personalización avanzada de vehículos.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
       </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(83, 51, 237, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #5333ed;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #5333ed; font-size: 22px">
-        DF LOADSCREEN
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Pantalla de carga personalizable y optimizada con múltiples efectos
-        visuales.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        ></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF SHOPS</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema avanzado de tiendas con interfaz personalizable y múltiples funcionalidades.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(83, 51, 237, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #5333ed;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #5333ed; font-size: 22px">
-        EXODO C - GUS LOAD
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Pantalla de carga premium con efectos visuales avanzados y transiciones
-        fluidas.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px">
-        <span
-          style="
-            display: inline-block;
-            background-color: #5b93fb;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 500;
-          "
-          >ESX</span
-        ></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF EVENTOS ALEATORIOS</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema de eventos aleatorios que ocurren por toda la ciudad con recompensas y desafíos.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">DF CHAT</h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema de chat avanzado con múltiples canales y comandos
-        personalizados.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF MULTIJOB</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema para gestionar múltiples trabajos con interfaz intuitiva y tracking de roles.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF DISCONNECT
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Mejora visual y funcional para las desconexiones con animaciones y
-        notificaciones.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(91, 147, 251, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #5b93fb; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #5b93fb; font-size: 22px;">DF MULTIJOB</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema para gestionar múltiples trabajos en ESX con múltiples opciones de configuración.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">ESX</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF SMALLRESOURCES
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Conjunto de scripts y utilidades optimizados para mejorar la experiencia
-        de juego.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(83, 51, 237, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #5333ed; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #5333ed; font-size: 22px;">DF LOADSCREEN</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Pantalla de carga personalizable y optimizada con múltiples efectos visuales.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">ESX</span>
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">
-        DF CAR LIMIT
-      </h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Limitador de velocidad configurable para vehículos con sistema de
-        categorías.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(83, 51, 237, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #5333ed; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #5333ed; font-size: 22px;">EXODO C - GUS LOAD</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Pantalla de carga premium con efectos visuales avanzados y transiciones fluidas.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #5b93fb; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">ESX</span>
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
-    <div
-      style="
-        background: linear-gradient(145deg, #ffffff, #f5f8ff);
-        border-radius: 16px;
-        box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15);
-        padding: 20px;
-        transition: all 0.3s ease;
-        position: relative;
-        overflow: hidden;
-        transform-style: preserve-3d;
-      "
-    >
-      <div
-        style="
-          position: absolute;
-          top: -15px;
-          right: -15px;
-          background: #28a6e1;
-          width: 100px;
-          height: 100px;
-          border-radius: 50%;
-          opacity: 0.1;
-          transform: translateZ(-5px);
-        "
-      ></div>
-      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px">DF STATS</h3>
-      <p style="font-size: 15px; color: #666; min-height: 60px">
-        Sistema para mostrar y gestionar estadísticas del jugador con interfaz
-        personalizable.
-      </p>
-      <div style="display: flex; margin-top: 15px; gap: 8px"></div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF CHAT</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema de chat avanzado con múltiples canales y comandos personalizados.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
+    </div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF DISCONNECT</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Mejora visual y funcional para las desconexiones con animaciones y notificaciones.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
+    </div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF SMALLRESOURCES</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Conjunto de scripts y utilidades optimizados para mejorar la experiencia de juego.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
+    </div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF CAR LIMIT</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Limitador de velocidad configurable para vehículos con sistema de categorías.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
+    </div>
+    <div style="background: linear-gradient(145deg, #ffffff, #f5f8ff); border-radius: 16px; box-shadow: 0 6px 20px rgba(40, 166, 225, 0.15); padding: 20px; transition: all 0.3s ease; position: relative; overflow: hidden; transform-style: preserve-3d;">
+      <div style="position: absolute; top: -15px; right: -15px; background: #28a6e1; width: 100px; height: 100px; border-radius: 50%; opacity: 0.1; transform: translateZ(-5px);"></div>
+      <h3 style="margin-top: 0; color: #28a6e1; font-size: 22px;">DF STATS</h3>
+      <p style="font-size: 15px; color: #666; min-height: 60px;">Sistema para mostrar y gestionar estadísticas del jugador con interfaz personalizable.</p>
+      <div style="display: flex; margin-top: 15px; gap: 8px;">
+        <span style="display: inline-block; background-color: #28a6e1; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">QBCore</span>
+        <span style="display: inline-block; background-color: #f44336; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: 500;">Premium</span>
+      </div>
     </div>
   </div>
 </div>
