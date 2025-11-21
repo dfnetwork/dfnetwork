@@ -31,7 +31,7 @@
   <h3 style="text-align: center; font-size: 22px; margin-bottom: 20px; color: #5333ed; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Mi actividad en GitHub
   </h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" style="filter: drop-shadow(0 2px 5px rgba(83, 51, 237, 0.2));">
+![GitHub Snake Animation](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository }}/output/github-snake.svg)
 </div>
 <div align="center">
   <h2>
